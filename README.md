@@ -39,11 +39,13 @@ You can find my CV [here](https://v-shenoy.github.io/resume/).
 ## Get in touch
 
 - [Website](https://v-shenoy.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/v-shenoy)
-- [Twitter](https://twitter.com/bitsinadatabase)
-- [Lichess](https://lichess.org/@/bitsinadatabase)
+- [![](https://img.shields.io/badge/LinkedIn-v--shenoy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/v-shenoy)
+- [![](https://img.shields.io/badge/Twitter-@bitsinadatabase-blue?style=flat-square&logo=twitter)](https://twitter.com/bitsinadatabase)
+- [![](https://img.shields.io/badge/Lichess-@bitsinadatabase-4600a8?style=flat-square&logo=lichess)](https://lichess.org/@/bitsinadatabase)
 
 ## Things I'm working on
+
+[![Vighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-shenoy&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently
 
@@ -61,4 +63,4 @@ You can find my CV [here](https://v-shenoy.github.io/resume/).
 - [SymPy](https://github.com/sympy/sympy) - A pure Python-based Computer Algebra System.
 
 ---
-#### Last Updated - 20/06/2022
+#### Last Updated - 22/06/2022
