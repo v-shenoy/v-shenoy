@@ -49,9 +49,7 @@ You can find my CV [here](https://v-shenoy.github.io/resume/).
 
 ### Currently
 
-- [ChessX](https://github.com/v-shenoy/obsidian-chessx) - Plugin to improve your chess notes in [Obsidian.md](https://obsidian.md/).
-- [Goliath](https://github.com/v-shenoy/goliath) - Chess engine written in Go.
-- [Vitae](https://github.com/v-shenoy/hugo-vitae-theme) - A clean and simple [Hugo](https://gohugo.io/) theme for resumes.
+- 
 
 ### Older
 
@@ -63,4 +61,4 @@ You can find my CV [here](https://v-shenoy.github.io/resume/).
 - [SymPy](https://github.com/sympy/sympy) - A pure Python-based Computer Algebra System.
 
 ---
-#### Last Updated - 22/06/2022
+#### Last Updated - 16/07/2022
