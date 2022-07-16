@@ -38,7 +38,7 @@ You can find my CV [here](https://v-shenoy.github.io/resume/).
 
 ## Get in touch
 
-- [Website](https://v-shenoy.github.io/)
+- [Website](https://v-shenoy.in/)
 - [![](https://img.shields.io/badge/LinkedIn-v--shenoy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/v-shenoy)
 - [![](https://img.shields.io/badge/Twitter-@bitsinadatabase-blue?style=flat-square&logo=twitter)](https://twitter.com/bitsinadatabase)
 - [![](https://img.shields.io/badge/Lichess-@bitsinadatabase-4600a8?style=flat-square&logo=lichess)](https://lichess.org/@/bitsinadatabase)
