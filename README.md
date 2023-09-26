@@ -13,5 +13,4 @@ You can find my CV [here](https://v-shenoy.com/resume).
 - [Website](https://v-shenoy.com/)
 - [E-mail](mailto:vighneshq@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/v-shenoy)
-- [Twitter](https://twitter.com/bitsinadatabase)
 - [Lichess](https://lichess.org/@/bitsinadatabase)
