@@ -7,7 +7,7 @@
 - I love to explore open-source projects. 
 - Besides software, you can talk to me about chess, cats, sports (football, F1), tv shows, manga, and books.
 
-You can find my CV [here](https://v-shenoy.com/resume).
+You can find my CV [here](https://v-shenoy.com/cv.pdf).
 
 ## Find me elsewhere
 - [Website](https://v-shenoy.com/)
