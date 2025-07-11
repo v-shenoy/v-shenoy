@@ -8,7 +8,7 @@ You can find my CV [here](https://v-shenoy.in/cv.pdf).
 
 ## Fun facts about me
 - I am a cat dad to two beautiful cats - Neo (4y/o black void) and Picasso aka Piku (1y/o white and orange tabby).
-- I am obsessed with chess (sometimes unhealthy), so feel free to challenge me to a game.
+- I am obsessed with chess (sometimes unhealthily), so feel free to challenge me to a game.
 - I like quizzing, and keeping myself up-to-date with sports (football, basketball, cricket, F1).
 - Actualmente estoy aprendiendo Español.
 
